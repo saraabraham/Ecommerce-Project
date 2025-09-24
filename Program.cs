@@ -5,9 +5,11 @@ using Microsoft.AspNetCore.Identity;
 using sib_api_v3_sdk.Client;
 using DotNetEnv;
 
+Env.Load();
 
 var builder = WebApplication.CreateBuilder(args);
-Env.Load();
+// Add .env variables to Configuration
+builder.Configuration.AddEnvironmentVariables();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

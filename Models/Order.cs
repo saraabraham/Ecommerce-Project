@@ -15,7 +15,7 @@ namespace ElectronicsStoreMVC.Models
         public string DeliveryAddress { get; set; } = "";
         public string PaymentMethod { get; set; } = "";
         public string PaymentStatus { get; set; } = "";
-        public string PaymenDetails { get; set; } = "";
+        public string PaymentDetails { get; set; } = "";
         public string OrderStatus { get; set; } = "";
         public DateTime CreatedAt { get; set; }
 

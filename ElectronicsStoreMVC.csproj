@@ -10,11 +10,11 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <None Remove="Services\" />
-    <None Remove="Migrations\" />
+    <None Remove=".env" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
-    <Folder Include="Migrations\" />
+    <Folder Include=".env" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="DotNetEnv" Version="3.1.1" />

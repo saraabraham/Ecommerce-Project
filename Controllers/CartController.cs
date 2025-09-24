@@ -128,7 +128,7 @@ namespace ElectronicsStoreMVC.Controllers
                 DeliveryAddress = deliveryAddress,
                 PaymentMethod = paymentMethod,
                 PaymentStatus = "pending",
-                PaymenDetails = "",
+                PaymentDetails = "",
                 OrderStatus = "created",
                 CreatedAt = DateTime.Now
             };

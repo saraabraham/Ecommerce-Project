@@ -5,13 +5,15 @@ using ElectronicsStoreMVC.Models;
 
 namespace ElectronicsStoreMVC.Services
 {
-	public class ApplicationDbContext:DbContext
-	{
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
         }
+
+        // Your application-specific tables
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
     }
 }
-

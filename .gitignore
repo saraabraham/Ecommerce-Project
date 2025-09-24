@@ -1,0 +1,19 @@
+﻿# Build and runtime artifacts
+bin/
+obj/
+*.db
+*.sqlite
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Secret configs
+.env
+appsettings.Development.json
+Properties/launchSettings.json

@@ -169,7 +169,7 @@ namespace ElectronicsStoreMVC.Controllers
                 DeliveryAddress = deliveryAddress,
                 PaymentMethod = "paypal",
                 PaymentStatus = "accepted",
-                PaymenDetails = paypalResponse,
+                PaymentDetails = paypalResponse,
                 OrderStatus = "pending",
                 CreatedAt = DateTime.Now
             };
