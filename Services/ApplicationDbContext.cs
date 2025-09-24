@@ -1,6 +1,7 @@
 ﻿using System;
-using ElectronicsStoreMVC.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using ElectronicsStoreMVC.Models;
 
 namespace ElectronicsStoreMVC.Services
 {
@@ -10,7 +11,7 @@ namespace ElectronicsStoreMVC.Services
         {
         }
         public DbSet<Product> Products { get; set; }
-        //public DbSet<Order> Orders { get; set; }
+        public DbSet<Order> Orders { get; set; }
     }
 }
 

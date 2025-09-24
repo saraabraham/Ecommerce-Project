@@ -31,6 +31,7 @@
     <PackageReference Include="MySql.EntityFrameworkCore" Version="7.0.5" />
     <PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="sib_api_v3_sdk" Version="4.0.2" />
   </ItemGroup>
   <ItemGroup>
     <None Update="seed_products.sql">
