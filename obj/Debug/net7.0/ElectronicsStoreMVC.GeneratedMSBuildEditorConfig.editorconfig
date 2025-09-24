@@ -16,6 +16,58 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9QYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/AdminOrders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5PcmRlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/AdminOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5PcmRlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Cart/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9Db25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/ClientOrders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50T3JkZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/ClientOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50T3JkZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +94,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Store/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmUvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/Views/_ViewImports.cshtml]

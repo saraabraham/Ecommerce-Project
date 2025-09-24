@@ -11,14 +11,13 @@
   <ItemGroup>
     <None Remove="Services\" />
     <None Remove="Migrations\" />
-    <None Remove="Views\Products\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Migrations\" />
-    <Folder Include="Views\Products\" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.1.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.8">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
