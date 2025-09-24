@@ -9,7 +9,7 @@ using Org.BouncyCastle.Asn1.X509;
 using ElectronicsStoreMVC.Models;
 using ElectronicsStoreMVC.Services;
 
-namespace SaraStoreMVC.Controllers
+namespace ElectronicsStoreMVC.Controllers
 {
     [Authorize(Roles = "admin")]
     [Route("/Admin/Orders/{action=Index}/{id?}")]
