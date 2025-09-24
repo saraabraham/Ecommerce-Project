@@ -63,3 +63,8 @@
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ref/ElectronicsStoreMVC.dll
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/seed_products.sql
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ElectronicsStoreMVC.csproj.CopyComplete
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/EntityFramework.dll
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

@@ -1,4 +1,6 @@
-﻿using ElectronicsStoreMVC.Services;
+﻿using ElectronicsStoreMVC.Models;
+using ElectronicsStoreMVC.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using MySql.EntityFrameworkCore.Extensions; // <-- Add this at the top
 
@@ -12,6 +14,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
     options.UseMySQL(connectionString); // <-- correct method for Oracle provider
 });
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(
+    options =>
+    {
+        options.Password.RequiredLength = 6;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequireUppercase = false;
+        options.Password.RequireLowercase = false;
+    }
+    ).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

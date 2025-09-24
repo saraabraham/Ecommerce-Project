@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GRi1qvHLqMuD2vjs4bglneH80sGltLuO7Fg7iUUboFo=",
+  "Hash": "GcMg27QVrG91ynRE2UzTkaIao4t9vUrcU2h71zYAE9k=",
   "Source": "ElectronicsStoreMVC",
   "BasePath": "_content/ElectronicsStoreMVC",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/image/hero.png",
+      "SourceId": "ElectronicsStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/",
+      "BasePath": "_content/ElectronicsStoreMVC",
+      "RelativePath": "image/hero.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/image/hero.png"
+    },
+    {
+      "Identity": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/image/icon.png",
+      "SourceId": "ElectronicsStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/",
+      "BasePath": "_content/ElectronicsStoreMVC",
+      "RelativePath": "image/icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/image/icon.png"
     },
     {
       "Identity": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/js/site.js",

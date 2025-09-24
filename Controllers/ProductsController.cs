@@ -1,19 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-using ElectronicsStoreMVC.Models;
+﻿using ElectronicsStoreMVC.Models;
 using ElectronicsStoreMVC.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace ElectronicsStoreMVC.Controllers
 {
-
-    //[Authorize(Roles = "admin")]
+    [Authorize(Roles = "admin")]
     [Route("/Admin/[controller]/{action=Index}/{id?}")]
     public class ProductsController : Controller
     {
@@ -275,5 +267,5 @@ namespace ElectronicsStoreMVC.Controllers
 
         }
     }
-}
 
+}

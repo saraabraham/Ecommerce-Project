@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/image/hero.png",
+      "PackagePath": "staticwebassets/image/hero.png"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/image/icon.png",
+      "PackagePath": "staticwebassets/image/icon.png"
+    },
+    {
       "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

@@ -1,21 +1,23 @@
 ﻿using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
 using ElectronicsStoreMVC.Models;
+using ElectronicsStoreMVC.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ElectronicsStoreMVC.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    private readonly ApplicationDbContext context;
+    public HomeController(ApplicationDbContext context)
     {
-        _logger = logger;
+        this.context = context;
     }
 
     public IActionResult Index()
     {
-        return View();
+        var prodcucts = context.Products.OrderByDescending(p => p.Id).Take(4).ToList();
+        return View(prodcucts);
     }
 
     public IActionResult Privacy()
@@ -29,4 +31,3 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
-
