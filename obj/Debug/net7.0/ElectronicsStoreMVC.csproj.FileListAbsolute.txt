@@ -56,9 +56,10 @@
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/scopedcss/bundle/ElectronicsStoreMVC.styles.css
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/scopedcss/projectbundle/ElectronicsStoreMVC.bundle.scp.css
-/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/Electron.C4297698.Up2Date
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ElectronicsStoreMVC.dll
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/refint/ElectronicsStoreMVC.dll
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ElectronicsStoreMVC.pdb
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ElectronicsStoreMVC.genruntimeconfig.cache
 /Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ref/ElectronicsStoreMVC.dll
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/bin/Debug/net7.0/seed_products.sql
+/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/obj/Debug/net7.0/ElectronicsStoreMVC.csproj.CopyComplete

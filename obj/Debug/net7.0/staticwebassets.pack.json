@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/ElectronicsStoreMVC.bundle.scp.css"
     },
     {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -243,6 +247,126 @@
     {
       "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/10590390.jpg",
+      "PackagePath": "staticwebassets/products/10590390.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/10744695.jpg",
+      "PackagePath": "staticwebassets/products/10744695.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/10967363.jpg",
+      "PackagePath": "staticwebassets/products/10967363.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/11677601.jpg",
+      "PackagePath": "staticwebassets/products/11677601.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/11736965.jpg",
+      "PackagePath": "staticwebassets/products/11736965.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/12643487.jpg",
+      "PackagePath": "staticwebassets/products/12643487.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/15587367.jpg",
+      "PackagePath": "staticwebassets/products/15587367.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/16303427.jpg",
+      "PackagePath": "staticwebassets/products/16303427.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/17327675.jpg",
+      "PackagePath": "staticwebassets/products/17327675.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/22866337.jpg",
+      "PackagePath": "staticwebassets/products/22866337.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/35640104.jpg",
+      "PackagePath": "staticwebassets/products/35640104.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/41732775.jpg",
+      "PackagePath": "staticwebassets/products/41732775.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/46411326.jpg",
+      "PackagePath": "staticwebassets/products/46411326.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/57380538.jpg",
+      "PackagePath": "staticwebassets/products/57380538.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/57415624.jpg",
+      "PackagePath": "staticwebassets/products/57415624.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/63529756.jpg",
+      "PackagePath": "staticwebassets/products/63529756.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/65286227.jpg",
+      "PackagePath": "staticwebassets/products/65286227.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/66017605.jpg",
+      "PackagePath": "staticwebassets/products/66017605.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/66899970.jpg",
+      "PackagePath": "staticwebassets/products/66899970.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/69725864.jpg",
+      "PackagePath": "staticwebassets/products/69725864.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/72426380.jpg",
+      "PackagePath": "staticwebassets/products/72426380.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/75241241.jpg",
+      "PackagePath": "staticwebassets/products/75241241.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/80522267.jpg",
+      "PackagePath": "staticwebassets/products/80522267.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/81882367.jpg",
+      "PackagePath": "staticwebassets/products/81882367.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/83655305.jpg",
+      "PackagePath": "staticwebassets/products/83655305.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/84600886.jpg",
+      "PackagePath": "staticwebassets/products/84600886.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/89890247.jpg",
+      "PackagePath": "staticwebassets/products/89890247.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/91537624.jpg",
+      "PackagePath": "staticwebassets/products/91537624.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/92970713.jpg",
+      "PackagePath": "staticwebassets/products/92970713.jpg"
+    },
+    {
+      "Id": "/Users/sara_abraham/Projects/ElectronicsStoreMVC/ElectronicsStoreMVC/wwwroot/products/97815739.jpg",
+      "PackagePath": "staticwebassets/products/97815739.jpg"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.ElectronicsStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
